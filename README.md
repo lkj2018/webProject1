@@ -12,5 +12,5 @@
 6. 项目运行    
 `npm run dev`或`npm start`    
 7. 项目打包    
-`npm run build`。
+`npm run build`
 
